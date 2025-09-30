@@ -56,9 +56,3 @@ We followed a **4-sprint structure**:
 
 ---
 
-## Setup
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-org/590-final-project.git
-   cd 590-final-project
